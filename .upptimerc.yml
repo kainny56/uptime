@@ -9,7 +9,7 @@ sites:
   - name: 마크블루
     url: http://mc.kkutu.blue
   - name: CDN
-    url:https://cdn.jsdelivr.net
+    url: https://cdn.jsdelivr.net
   - name: CDN2
     url: https://ko.imgbb.com
 
